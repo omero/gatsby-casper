@@ -1,10 +1,10 @@
 ---
-title: Gettysburg Address
+title: Gettysburg Address . asdasd
 excerpt: ''
 date: '1863-11-19T10:00:00.000Z'
 path: ''
-image: img/demo4.jpg
-updated_at: 2019-04-01T19:41:58.745Z
+image: a3217995050_10.png
+updated_at: 2019-04-01T19:42:19.244Z
 author: Another Author
 tags: []
 draft: false
@@ -15,7 +15,7 @@ Fourscore and seven years ago our fathers brought forth on this continent, a new
 
 But, in a larger sense, we can not dedicate\-we can not consecrate\-we can not hallow\-this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. 
 
-## Heading
+## Heading asdsadasd
 
 The world will little note, nor long remember what we say here, but it can never forget what they did here. 
 
