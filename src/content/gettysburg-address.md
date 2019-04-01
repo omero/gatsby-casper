@@ -1,10 +1,10 @@
 ---
-title: Gettysburg Address update
+title: Gettysburg Address
 excerpt: ''
 date: '1863-11-19T10:00:00.000Z'
 path: ''
 image: img/demo4.jpg
-updated_at: 2019-04-01T19:40:09.963Z
+updated_at: 2019-04-01T19:40:40.614Z
 author: Another Author
 tags: []
 draft: false
