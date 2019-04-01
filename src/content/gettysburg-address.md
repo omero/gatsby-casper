@@ -3,8 +3,8 @@ title: Gettysburg Address
 excerpt: ''
 date: '1863-11-19T10:00:00.000Z'
 path: ''
-image: img/demo1.jpg
-updated_at: 2019-04-01T19:45:03.944Z
+image: a3217995050_10.png
+updated_at: 2019-04-01T20:21:03.639Z
 author: Another Author
 tags: []
 draft: false
@@ -15,8 +15,8 @@ Fourscore and seven years ago our fathers brought forth on this continent, a new
 
 But, in a larger sense, we can not dedicate\-we can not consecrate\-we can not hallow\-this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. 
 
-## Heading 
+## Heading
 
-The world will little note, nor long remember what we say here, but it can never forget what they did here. 
+> The world will little note, nor long remember what we say here, but it can never forget what they did here. 
 
 It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us\-that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion\-that we here highly resolve that these dead shall not have died in vain\-that this nation, under God, shall have a new birth of freedom\-and that government of the people, by the people, for the people shall not perish from the earth.
