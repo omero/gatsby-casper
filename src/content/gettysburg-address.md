@@ -4,7 +4,7 @@ excerpt: ''
 date: '1863-11-19T10:00:00.000Z'
 path: ''
 image: img/demo1.jpg
-updated_at: 2019-04-01T19:43:15.040Z
+updated_at: 2019-04-01T19:43:33.819Z
 author: Another Author
 tags: []
 draft: false
