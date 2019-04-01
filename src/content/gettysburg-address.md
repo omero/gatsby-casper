@@ -1,10 +1,10 @@
 ---
 title: Gettysburg Address
 excerpt: ''
-date: '1863-11-19T10:00:00.000Z'
+date: '2019-04-01'
 path: ''
 image: a3217995050_10.png
-updated_at: 2019-04-01T20:21:03.639Z
+updated_at: 2019-04-01T20:22:19.122Z
 author: Another Author
 tags: []
 draft: false
