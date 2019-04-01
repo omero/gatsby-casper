@@ -1,10 +1,10 @@
 ---
-title: Gettysburg Address
+title: Gettysburg Address update
 excerpt: ''
-date: '2019-03-29'
+date: '2019-04-01'
 path: ''
 image: img/demo1.jpg
-updated_at: 2019-04-01T21:26:29.196Z
+updated_at: 2019-04-01T21:27:10.343Z
 author: Another Author
 tags: []
 draft: false
@@ -15,9 +15,8 @@ Fourscore and seven years ago our fathers brought forth on this continent, a new
 
 But, in a larger sense, we can not dedicate\-we can not consecrate\-we can not hallow\-this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. 
 
-
-
 ![alt text](a3217995050_10.png)
+
 
 ## Heading
 
