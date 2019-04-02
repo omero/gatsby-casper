@@ -4,13 +4,14 @@ excerpt: ''
 date: '2019-04-01'
 path: ''
 image: img/demo1.jpg
-updated_at: 2019-04-02T18:16:37.099Z
+updated_at: 2019-04-02T18:16:48.860Z
 author: Another Author
 tags: []
 draft: false
 ---
 Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.
 
+https://twitter.com/gatsbyjs/status/1055939617646465024
 
 [I'm an inline\-style link](https://twitter.com/gatsbyjs/status/1055939617646465024)
 
