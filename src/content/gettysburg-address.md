@@ -1,10 +1,10 @@
 ---
-title: Gettysburg Addres
+title: Gettysburg Addres lorem
 excerpt: ''
 date: '2019-04-02'
 path: ''
 image: img/demo1.jpg
-updated_at: 2019-04-03T06:23:11.603Z
+updated_at: 2019-04-03T06:23:41.122Z
 author: Another Author
 tags: []
 draft: false
