@@ -1,10 +1,10 @@
 ---
-title: Gettysburg Addres update
-date: '2019-04-01'
-image: a3217995050_10.png
-updated_at: 2019-04-03T06:17:28.002Z
+title: Gettysburg Addres
 excerpt: ''
+date: '2019-04-01'
 path: ''
+image: a3217995050_10.png
+updated_at: 2019-04-03T06:18:01.762Z
 author: Another Author
 tags: []
 draft: false
