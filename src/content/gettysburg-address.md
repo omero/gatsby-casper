@@ -2,7 +2,7 @@
 title: Gettysburg Addres update
 date: '2019-04-01'
 image: a3217995050_10.png
-updated_at: 2019-04-02T18:28:37.272Z
+updated_at: 2019-04-03T06:15:50.252Z
 excerpt: ''
 path: ''
 author: Another Author
@@ -12,8 +12,6 @@ draft: false
 Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.
 
 https://twitter.com/gatsbyjs/status/1055939617646465024
-
-[I'm an inline\-style link](https://twitter.com/gatsbyjs/status/1055939617646465024)
 
 > Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle\-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.
 
