@@ -4,7 +4,7 @@ excerpt: ''
 date: '2019-04-01'
 path: ''
 image: img/demo1.jpg
-updated_at: 2019-04-03T18:23:13.460Z
+updated_at: 2019-04-03T19:09:23.930Z
 author: Another Author
 tags: []
 draft: false
