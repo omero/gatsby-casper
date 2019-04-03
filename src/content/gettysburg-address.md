@@ -3,8 +3,8 @@ title: Gettysburg Addres
 excerpt: ''
 date: '2019-04-02'
 path: ''
-image: img/demo4.jpg
-updated_at: 2019-04-03T06:18:36.294Z
+image: img/demo1.jpg
+updated_at: 2019-04-03T06:18:48.884Z
 author: Another Author
 tags: []
 draft: false
