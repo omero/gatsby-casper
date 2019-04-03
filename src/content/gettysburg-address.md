@@ -1,10 +1,10 @@
 ---
 title: Gettysburg Addres
 excerpt: ''
-date: '2019-04-01'
+date: '2019-04-02'
 path: ''
 image: a3217995050_10.png
-updated_at: 2019-04-03T06:18:01.762Z
+updated_at: 2019-04-03T06:18:22.527Z
 author: Another Author
 tags: []
 draft: false
