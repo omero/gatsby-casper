@@ -3,8 +3,8 @@ title: 'Gettysburg Address '
 excerpt: ''
 date: '2019-01-01'
 path: ''
-image: a3217995050_10.png
-updated_at: 2019-04-04T16:48:23.501Z
+image: img/demo4.jpg
+updated_at: 2019-04-04T16:57:52.583Z
 author: Another Author
 tags: []
 draft: false
