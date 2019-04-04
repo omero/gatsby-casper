@@ -3,8 +3,8 @@ title: Gettysburg Address
 excerpt: ''
 date: '2019-04-01'
 path: ''
-image: img/demo4.jpg
-updated_at: 2019-04-04T03:14:49.008Z
+image: img/demo1.jpg
+updated_at: 2019-04-04T03:15:38.176Z
 author: Another Author
 tags: []
 draft: false
