@@ -1,10 +1,10 @@
 ---
-title: Gettysburg Address
+title: Gettysburg Address asdfsf
 excerpt: ''
 date: '2019-04-02'
 path: ''
-image: a3217995050_10.png
-updated_at: 2019-04-04T04:10:11.448Z
+image: img/demo1.jpg
+updated_at: 2019-04-04T04:10:31.706Z
 author: Another Author
 tags: []
 draft: false
