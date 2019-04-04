@@ -1,10 +1,9 @@
 ---
 title: 'Gettysburg Address '
-excerpt: lalalaalala
 date: '2019-01-01'
 path: ''
 image: a3217995050_10.png
-updated_at: 2019-04-04T16:02:54.157Z
+updated_at: 2019-04-04T16:15:55.752Z
 author: Another Author
 tags: []
 draft: false
