@@ -28,6 +28,18 @@ module.exports = {
               wrapperStyle: 'margin-bottom: 1rem',
             },
           },
+          {
+            resolve: `@raae/gatsby-remark-oembed`,
+            options: {
+              providers: {
+                include: [
+                  'YouTube',
+                  'Vimeo',
+                ]
+              },
+            },
+          },
+          '@weknow/gatsby-remark-twitter',
           'gatsby-remark-prismjs',
           'gatsby-remark-copy-linked-files',
           'gatsby-remark-smartypants',
