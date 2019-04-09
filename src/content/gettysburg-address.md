@@ -4,7 +4,7 @@ excerpt: ''
 date: '2019-01-01'
 path: ''
 image: img/demo4.jpg
-updated_at: 2019-04-09T21:10:52.425Z
+updated_at: 2019-04-09T21:11:15.133Z
 author: Another Author
 tags: []
 draft: false
@@ -15,12 +15,9 @@ Fourscore and seven years ago our fathers brought forth on this continent, a new
 
 But, in a larger sense, we can not dedicate\-we can not consecrate\-we can not hallow\-this ground. 
 
-![sdfgfdgh](a3217995050_10.png)
 
 
 The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. 
-
-https://vimeo.com/217811189
 
 ## Heading
 
