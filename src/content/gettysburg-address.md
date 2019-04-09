@@ -2,7 +2,7 @@
 title: Gettysburg Address update
 date: '2019-01-01'
 image: a3217995050_10.png
-updated_at: 2019-04-09T23:00:17.085Z
+updated_at: 2019-04-09T23:21:35.445Z
 excerpt: ''
 path: ''
 author: Another Author
@@ -16,11 +16,6 @@ Fourscore and seven years ago our fathers brought forth on this continent, a new
 https://twitter.com/gatsbyjs/status/1055939617646465024
 
 But, in a larger sense, we can not dedicate\-we can not consecrate\-we can not hallow\-this ground. 
-
-https://www.youtube.com/watch?v=iPKoy7UFdRY
-
-![khkjh](a3217995050_10.png)
-
 
 The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. 
 
