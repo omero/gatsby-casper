@@ -1,15 +1,16 @@
 ---
-layout: post
 title: Github Source
+excerpt: ''
+date: '2019-03-10'
+path: ''
 image: img/callum-shaw-555357-unsplash.jpg
+layout: post
 author: Ghost
-date: 2019-03-10T10:00:00.000Z
 tags:
   - Source
+updated_at: 2019-04-09T22:53:33.240Z
 ---
-
-You'll find the source of this blog on GitHub.  
-GitHub - https://github.com/scttcper/gatsby-casper
+You'll find the source of this blog on GitHub. GitHub \- https://github.com/scttcper/gatsby\-casper
 
 ### Getting Started
 
@@ -25,4 +26,6 @@ Remove .git folder and setup a new one
 rm -rf .git && git init
 ```
 
-Now push to whatever repo you want!
+Now push to whatever repo you want\!
+
+https://www.slideshare.net/reidhoffman/blitzscaling\-book\-trailer\-118631898
