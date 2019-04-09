@@ -1,10 +1,10 @@
 ---
 title: Gettysburg Address
-excerpt: ''
 date: '2019-01-01'
+image: img/demo1.jpg
+updated_at: 2019-04-09T22:59:16.208Z
+excerpt: ''
 path: ''
-image: a3217995050_10.png
-updated_at: 2019-04-09T22:24:03.778Z
 author: Another Author
 tags: []
 draft: false
