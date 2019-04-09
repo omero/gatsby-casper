@@ -1,8 +1,8 @@
 ---
-title: Gettysburg Address
+title: Gettysburg Address update
 date: '2019-01-01'
 image: img/demo1.jpg
-updated_at: 2019-04-09T22:59:16.208Z
+updated_at: 2019-04-09T22:59:51.927Z
 excerpt: ''
 path: ''
 author: Another Author
