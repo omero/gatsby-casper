@@ -1,8 +1,8 @@
 ---
 title: Gettysburg Address
-date: '2019-01-01'
+date: '2019-04-10'
 image: img/demo4.jpg
-updated_at: 2019-04-10T18:25:17.116Z
+updated_at: 2019-04-10T18:26:18.447Z
 excerpt: ''
 path: ''
 author: Another Author
@@ -15,11 +15,15 @@ Fourscore and seven years ago our fathers brought forth on this continent, a new
 
 But, in a larger sense, we can not dedicate\-we can not consecrate\-we can not hallow\-this ground. 
 
+https://twitter.com/gatsbyjs/status/1055939617646465024
+
 The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. 
 
 ## Heading
 
 The world will little note, nor long remember what we say here, but it can never forget what they did here. 
+
+https://www.youtube.com/watch?v=iPKoy7UFdRY
 
 > It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced.  
 
