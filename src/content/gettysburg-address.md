@@ -1,8 +1,8 @@
 ---
-title: Gettysburg Address lorem
+title: 'Gettysburg Address]'
 date: '2019-01-01'
-image: img/demo4.jpg
-updated_at: 2019-04-10T18:55:14.152Z
+image: a3217995050_10.png
+updated_at: 2019-04-10T18:55:30.925Z
 excerpt: ''
 path: ''
 author: Another Author
