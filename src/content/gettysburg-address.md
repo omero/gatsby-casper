@@ -1,8 +1,8 @@
 ---
-title: 'Gettysburg Address]'
+title: Gettysburg Addres
 date: '2019-01-01'
 image: chatbot-for-website.png
-updated_at: 2019-04-17T20:29:16.961Z
+updated_at: 2019-04-17T20:32:20.133Z
 excerpt: ''
 path: ''
 author: Another Author
