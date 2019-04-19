@@ -2,7 +2,7 @@
 title: Gettysburg Addres lorem
 date: '2019-04-17'
 image: a3217995050_10.png
-updated_at: 2019-04-19T19:41:39.308Z
+updated_at: 2019-04-19T19:42:16.293Z
 excerpt: ''
 path: ''
 author: Another Author
@@ -21,8 +21,6 @@ const something
 
 
 But, in a larger sense, we can not dedicate\-we can not consecrate\-we can not hallow\-this ground. 
-
-https://www.youtube.com/watch?v=iPKoy7UFdRY
 
 The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. 
 
