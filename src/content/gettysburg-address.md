@@ -1,8 +1,8 @@
 ---
-title: Gettysburg Addres
+title: Gettysburg Addres lorem
 date: '2019-04-17'
 image: a3217995050_10.png
-updated_at: 2019-04-17T20:53:06.985Z
+updated_at: 2019-04-19T19:41:39.308Z
 excerpt: ''
 path: ''
 author: Another Author
