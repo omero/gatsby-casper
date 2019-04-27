@@ -1,8 +1,8 @@
 ---
 title: Gettysburg Addres
 date: '2019-04-19'
-image: a3217995050_10.png
-updated_at: 2019-04-25T14:29:40.465Z
+image: chatbot-for-website.png
+updated_at: 2019-04-27T05:47:28.505Z
 excerpt: ''
 path: ''
 author: Another Author
@@ -16,10 +16,6 @@ const something
 ```
 
 > Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle\-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this
-
-
-
-
 
 https://www.youtube.com/watch?v=iPKoy7UFdRY
 
