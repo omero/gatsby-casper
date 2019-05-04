@@ -2,7 +2,7 @@
 title: Using The Ghost Editor 3
 date: '2015-02-02'
 image: img/writing.jpg
-updated_at: 2019-05-04T05:07:18.807Z
+updated_at: 2019-05-04T05:15:26.684Z
 tags:
   - Getting Started
 draft: false
