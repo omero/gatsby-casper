@@ -1,8 +1,8 @@
 ---
 title: Gettysburg Address
-date: '2019-01-01'
+date: '2019-05-05'
 image: chatbot-for-website.png
-updated_at: 2019-05-05T20:07:08.082Z
+updated_at: 2019-05-05T20:07:30.264Z
 relativePath: gettysburg-address.md
 author: Another Author
 excerpt: ''
