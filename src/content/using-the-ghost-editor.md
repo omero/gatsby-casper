@@ -1,14 +1,14 @@
 ---
-title: Using The Ghost Editor 2
 date: '2015-02-02'
+title: Using The Ghost Editor 2
 image: img/writing.jpg
-updated_at: 2019-05-04T05:37:01.437Z
-layout: post
 tags:
   - Getting Started
 draft: false
-relativePath: using-the-ghost-editor.md
+contentType: default
+updated_at: 2019-05-06T22:41:25.199Z
 author: Ghost
+layout: post
 ---
 Ghost uses a language called **Markdown** to format text.
 
