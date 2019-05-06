@@ -1,12 +1,13 @@
 ---
-title: Great Gatsby
-date: '2019-01-01'
+relativePath: emancipation-proclamation.md
+author: Another Author
 image: img/marvin-meyer-794521-unsplash.jpg
+date: '2019-01-01'
 tags: []
 draft: false
-author: Another Author
-relativePath: emancipation-proclamation.md
-updated_at: 2019-05-06T02:52:18.734Z
+title: Great Gatsby
+contentType: page
+updated_at: 2019-05-06T21:05:06.274Z
 ---
 
 In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since.
