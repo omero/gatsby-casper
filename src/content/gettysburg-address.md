@@ -2,7 +2,7 @@
 title: Gettysburg Address
 date: '2019-05-05'
 image: a3217995050_10.png
-updated_at: 2019-05-06T02:55:25.620Z
+updated_at: 2019-05-06T02:57:26.409Z
 author: Another Author
 excerpt: ''
 path: ''
@@ -13,7 +13,18 @@ relativePath: gettysburg-address.md
 Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the **proposition** that all men are created equal.
 
 ```js
-const something
+return firestore.find(
+  'collection_name',
+  {
+    where: [
+      {
+        field: "property_name ",
+        operator: "==",
+        value: args.id
+      }
+    ]
+  }
+);
 ```
 
 > Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle\-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this
