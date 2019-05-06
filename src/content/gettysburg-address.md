@@ -1,12 +1,12 @@
 ---
-excerpt: 'no data '
+excerpt: lorem ipsum
 title: Gettysburg Address
 image: a3217995050_10.png
 date: '2019-05-05'
 path: ''
 tags: []
 draft: false
-updated_at: 2019-05-06T07:06:56.035Z
+updated_at: 2019-05-06T07:20:53.197Z
 relativePath: gettysburg-address.md
 author: Another Author
 ---
