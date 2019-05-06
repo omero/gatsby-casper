@@ -3,7 +3,7 @@ date: '2019-05-05'
 excerpt: lorem ipsum
 title: Gettysburg Address
 image: a3217995050_10.png
-updated_at: 2019-05-06T07:36:21.664Z
+updated_at: 2019-05-06T07:36:33.747Z
 relativePath: gettysburg-address.md
 author: Another Author
 path: ''
