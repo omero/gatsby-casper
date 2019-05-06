@@ -1,10 +1,12 @@
 ---
-title: "Great Gatsby"
-author: Another Author
-tags: []
+title: Great Gatsby
+date: '2019-01-01'
 image: img/marvin-meyer-794521-unsplash.jpg
-date: "1922-12-12T10:00:00.000Z"
+tags: []
 draft: false
+author: Another Author
+relativePath: emancipation-proclamation.md
+updated_at: 2019-05-06T02:52:18.734Z
 ---
 
 In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since.
