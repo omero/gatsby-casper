@@ -1,14 +1,14 @@
 ---
-title: Gettysburg Address
 date: '2019-05-05'
-image: a3217995050_10.png
-updated_at: 2019-05-06T02:57:26.409Z
-author: Another Author
 excerpt: ''
+title: Gettysburg Address
+image: a3217995050_10.png
 path: ''
 tags: []
 draft: false
+updated_at: 2019-05-06T06:39:59.275Z
 relativePath: gettysburg-address.md
+author: Another Author
 ---
 Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the **proposition** that all men are created equal.
 
@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=iPKoy7UFdRY
 
 But, in a larger sense, we can not dedicate\-we can not consecrate\-we can not hallow\-this ground. 
 
-![gatsby](gatsby-theme-config.png)
+![gatsby](chatbot-for-website.png)
 
 
 The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. 
