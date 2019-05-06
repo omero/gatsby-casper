@@ -1,12 +1,12 @@
 ---
-date: '2019-05-05'
 excerpt: 'no data '
 title: Gettysburg Address
 image: a3217995050_10.png
+date: '2019-05-05'
 path: ''
 tags: []
 draft: false
-updated_at: 2019-05-06T07:03:44.176Z
+updated_at: 2019-05-06T07:06:56.035Z
 relativePath: gettysburg-address.md
 author: Another Author
 ---
