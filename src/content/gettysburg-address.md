@@ -1,13 +1,13 @@
 ---
-date: '2019-05-07'
 excerpt: lorem ipsum bar/baz
 title: Gettysburg Address
 image: chatbot-for-website.png
+date: '2019-05-07'
 path: ''
 tags: []
 draft: false
 contentType: page
-updated_at: '2019-05-07T16:32:12.652Z'
+updated_at: '2019-05-07T17:27:48.196Z'
 author: Another Author
 ---
 Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the **proposition** that all men are created equal.
@@ -16,15 +16,12 @@ Fourscore and seven years ago our fathers brought forth on this continent, a new
 const bar = 'baz'
 ```
 
-https://www.youtube.com/watch?v=iPKoy7UFdRY
-
 But, in a larger sense, we can not dedicate\-we can not consecrate\-we can not hallow\-this ground. 
 
 The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. 
 
-
-
 ![alt text](a3217995050_10.png)
+
 
 ## Heading
 
