@@ -7,7 +7,7 @@ path: ''
 tags: []
 draft: false
 contentType: page
-updated_at: '2019-05-07T01:47:27.794Z'
+updated_at: '2019-05-07T01:48:57.848Z'
 relativePath: gettysburg-address.md
 author: Another Author
 ---
