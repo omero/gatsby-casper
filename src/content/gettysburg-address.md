@@ -7,7 +7,7 @@ path: ''
 tags: []
 draft: false
 contentType: page
-updated_at: '2019-05-07T16:31:10.023Z'
+updated_at: '2019-05-07T16:32:12.652Z'
 author: Another Author
 ---
 Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the **proposition** that all men are created equal.
@@ -23,6 +23,8 @@ But, in a larger sense, we can not dedicate\-we can not consecrate\-we can not h
 The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. 
 
 
+
+![alt text](a3217995050_10.png)
 
 ## Heading
 
