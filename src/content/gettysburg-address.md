@@ -1,31 +1,16 @@
 ---
-date: '2019-01-01'
 excerpt: lorem ipsum bar/baz
 title: Gettysburg Address
 image: img/testimg-cover.jpg
+date: '2019-01-01'
 author: Another Author
 path: ''
 tags: []
 draft: false
 contentType: page
-updated_at: '2019-05-07T15:30:13.968Z'
+updated_at: '2019-05-07T15:54:27.159Z'
 ---
 Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the **proposition** that all men are created equal.
-
-```js
-return firestore.find(
-  'collection_name',
-  {
-    where: [
-      {
-        field: "property_name ",
-        operator: "==",
-        value: args.id
-      }
-    ]
-  }
-);
-```
 
 > Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle\-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this
 
