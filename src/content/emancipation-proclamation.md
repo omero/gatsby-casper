@@ -1,12 +1,12 @@
 ---
-draft: false
-title: Great Gatsby
 contentType: page
-updated_at: 2019-05-06T22:41:11.395Z
+updated_at: '2019-05-07T03:04:35.619Z'
 author: Another Author
 image: img/marvin-meyer-794521-unsplash.jpg
 date: '2019-01-01'
 tags: []
+draft: false
+title: Great Gatsby
 ---
 
 In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since.
