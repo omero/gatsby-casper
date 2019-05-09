@@ -1,28 +1,20 @@
 ---
 date: '2019-01-01'
-excerpt: lorem ipsum bar/baz
 title: Gettysburg Address
 image: img/testimg-cover.jpg
 path: ''
 tags: []
 draft: false
 contentType: page
-updated_at: '2019-05-07T21:17:05.824Z'
+updated_at: '2019-05-09T14:51:15.376Z'
 author: Another Author
+excerpt: lorem ipsum bar/baz
 ---
 Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the **proposition** that all men are created equal.
-
-```
-const bar = 'baz'
-```
 
 But, in a larger sense, we can not dedicate\-we can not consecrate\-we can not hallow\-this ground. 
 
 The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. 
-
-
-
-![alt text](a3217995050_10.png)
 
 ## Heading
 
