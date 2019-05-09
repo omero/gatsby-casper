@@ -6,7 +6,7 @@ path: ''
 tags: []
 draft: false
 contentType: page
-updated_at: '2019-05-09T14:56:04.940Z'
+updated_at: '2019-05-09T14:56:22.826Z'
 author: Another Author
 excerpt: lorem ipsum bar/baz
 ---
@@ -15,10 +15,6 @@ Fourscore and seven years ago our fathers brought forth on this continent, a new
 But, in a larger sense, we can not dedicate\-we can not consecrate\-we can not hallow\-this ground. 
 
 
-
-
-
-![lat text](img/testimg-cover.jpg)
 
 The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. 
 
