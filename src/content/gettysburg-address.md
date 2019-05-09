@@ -1,12 +1,12 @@
 ---
-date: '2019-05-09'
 title: Gettysburg Address
-image: a3217995050_10.png
+image: img/testimg-cover.jpg
+date: '2019-05-09'
 path: ''
 tags: []
 draft: false
 contentType: page
-updated_at: '2019-05-09T14:53:42.880Z'
+updated_at: '2019-05-09T14:54:39.580Z'
 author: Another Author
 excerpt: lorem ipsum bar/baz
 ---
