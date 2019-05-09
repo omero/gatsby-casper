@@ -1,12 +1,12 @@
 ---
 title: Gettysburg Address
-image: a3217995050_10.png
-date: '2019-05-09'
+image: img/testimg-cover.jpg
+date: '2018-12-01'
 path: ''
 tags: []
 draft: false
 contentType: page
-updated_at: '2019-05-09T14:54:48.096Z'
+updated_at: '2019-05-09T14:55:02.062Z'
 author: Another Author
 excerpt: lorem ipsum bar/baz
 ---
