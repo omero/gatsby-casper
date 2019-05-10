@@ -2,7 +2,7 @@
 title: Gettysburg Address
 date: '2019-05-09'
 image: a3217995050_10.png
-updated_at: '2019-05-10T13:05:02.538Z'
+updated_at: '2019-05-10T13:06:12.506Z'
 path: ''
 tags: []
 draft: false
