@@ -7,14 +7,13 @@ path: ''
 tags: []
 draft: false
 contentType: page
-updated_at: '2019-05-10T21:47:02.312Z'
+updated_at: '2019-05-10T21:47:31.928Z'
 author: Another Author
 ---
 Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the **proposition** that all men are created equal.
 
-
-
 ![this is an alt text](chatbot-for-website.png)
+
 
 But, in a larger sense, we can not dedicate\-we can not consecrate\-we can not hallow\-this ground.
 
