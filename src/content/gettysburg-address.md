@@ -2,7 +2,7 @@
 title: Gettysburg Address
 date: '2019-05-09'
 image: a3217995050_10.png
-updated_at: '2019-05-10T13:08:45.310Z'
+updated_at: '2019-05-10T13:09:24.794Z'
 path: ''
 tags: []
 draft: false
@@ -20,7 +20,7 @@ https://twitter.com/jmolivas/status/1126511643775516672
 
 The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. 
 
-![alt text](img/testimg-cover.jpg)
+![this is the alt text](img/testimg-cover.jpg)
 
 
 ## Heading
