@@ -1,9 +1,9 @@
 ---
+date: '2019-05-14'
 title: Gettysburg Address
 image: a3217995050_10.png
-date: '2019-05-14'
 contentType: page
-updated_at: '2019-05-14T18:26:15.816Z'
+updated_at: '2019-05-14T18:26:27.148Z'
 author: Another Author
 excerpt: lorem ipsum bar/baz
 path: ''
@@ -15,8 +15,6 @@ Fourscore and seven years ago our fathers brought forth on this continent, a new
 But, in a larger sense, we can not dedicate\-we can not consecrate\-we can not hallow\-this ground.
 
 The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. 
-
-## Heading
 
 The world will little note, nor long remember what we say here, but it can never forget what they did here. 
 
