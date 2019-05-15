@@ -7,7 +7,6 @@ layout: post
 path: ''
 tags:
   - Source
-contentType: default
 updated_at: '2019-05-07T03:04:14.217Z'
 author: Ghost
 ---

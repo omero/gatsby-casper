@@ -6,7 +6,6 @@ layout: post
 tags:
   - Getting Started
 draft: false
-contentType: default
 updated_at: '2019-05-07T17:56:19.115Z'
 author: Ghost
 ---
