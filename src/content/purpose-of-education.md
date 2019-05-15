@@ -5,10 +5,10 @@ tags:
   - Speeches
 draft: false
 title: The Purpose of Education
-contentType: none
+contentType: event
 author: Ghost
 image: img/demo4.jpg
-updated_at: '2019-05-15T06:37:29.381Z'
+updated_at: '2019-05-15T19:43:40.126Z'
 ---
 
 

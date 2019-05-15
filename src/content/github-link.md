@@ -7,8 +7,9 @@ layout: post
 path: ''
 tags:
   - Source
-updated_at: '2019-05-07T03:04:14.217Z'
+updated_at: '2019-05-15T21:05:48.412Z'
 author: Ghost
+contentType: post
 ---
 You'll find the source of this blog on GitHub. GitHub \- https://github.com/scttcper/gatsby\-casper
 
