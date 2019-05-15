@@ -1,14 +1,14 @@
 ---
-date: '2019-05-14'
+date: '2019-01-01'
 title: Gettysburg Address
-image: a3217995050_10.png
-contentType: page
-updated_at: '2019-05-14T18:27:02.175Z'
+image: img/testimg-cover.jpg
 author: Another Author
 excerpt: lorem ipsum bar/baz
 path: ''
 tags: []
 draft: false
+contentType: page
+updated_at: '2019-05-15T16:13:22.683Z'
 ---
 Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the **proposition** that all men are created equal.
 
@@ -16,13 +16,7 @@ But, in a larger sense, we can not dedicate\-we can not consecrate\-we can not h
 
 The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. 
 
-
-
-![alt text](chatbot-for-website.png)
-
 The world will little note, nor long remember what we say here, but it can never forget what they did here. 
-
-https://www.youtube.com/watch?v=uD4izuDMUQA
 
 > It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced.  
 
