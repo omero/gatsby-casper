@@ -6,8 +6,9 @@ layout: post
 tags:
   - Getting Started
 draft: false
-updated_at: '2019-05-07T17:56:19.115Z'
+updated_at: '2019-05-15T05:46:28.818Z'
 author: Ghost
+contentType: post
 ---
 Ghost uses a language called **Markdown** to format text.
 

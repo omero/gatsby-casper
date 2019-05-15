@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Welcome to Ghost"
+title: Welcome to Ghost
 author: Ghost
-tags: ["Getting Started"]
+tags:
+  - Getting Started
 image: img/welcome-to-ghost.jpg
-date: "2018-05-06T23:46:37.121Z"
+date: '2018-05-06T23:46:37.121Z'
 draft: false
+contentType: post
+updated_at: '2019-05-15T05:46:28.823Z'
 ---
 
 👋 Welcome, it's great to have you here.
