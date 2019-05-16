@@ -1,16 +1,16 @@
 ---
-date: '2015-02-02'
-title: Using The Ghost Editor 2
+title: Using The Ghost Editor
 image: img/writing.jpg
 layout: post
+date: '2015-02-02'
 tags:
   - Getting Started
 draft: false
-updated_at: '2019-05-15T05:46:28.818Z'
-author: Ghost
 contentType: post
+updated_at: '2019-05-16T21:02:37.099Z'
+author: Ghost
 ---
-Ghost uses a language called **Markdown** to format text.
+Ghost uses a language called **Markdown** to format text. uju
 
 When you go to edit a post and see special characters and colours intertwined between the words, those are Markdown shortcuts which tell Ghost what to do with the words in your document. The biggest benefit of Markdown is that you can quickly apply formatting as you type, without needing to pause.
 
