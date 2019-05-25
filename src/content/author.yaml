@@ -8,7 +8,7 @@
   profile_image: a3217995050_10.png
 - id: Another Author
   avatar: avatars/ghost.png
-  bio: This is another test author with a profile background image
+  bio: This is another test author with a profile background image 2
   twitter: TryGhost
   facebook: ghost
   website: 'https://ghost.org/'
