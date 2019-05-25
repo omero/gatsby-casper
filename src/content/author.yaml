@@ -5,11 +5,10 @@
   facebook: ghost
   website: 'https://ghost.org/'
   location: On a plane
-  name: ''
   profile_image: a3217995050_10.png
 - id: Another Author
   avatar: avatars/ghost.png
-  bio: This is another test author with a profile background image r
+  bio: This is another test author with a profile background image
   twitter: TryGhost
   facebook: ghost
   website: 'https://ghost.org/'
