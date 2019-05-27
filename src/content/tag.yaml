@@ -1,3 +1,5 @@
 - id: speeches
   description: Some of the greatest words ever spoken.
   image: a3217995050_10.png
+- id: news
+  name: news
