@@ -1,15 +1,16 @@
 ---
-date: '2018-05-06'
-excerpt: ''
 title: Welcome to Ghost
 image: img/welcome-to-ghost.jpg
+summary: lorem bar baz
+date: '2018-05-06'
+author: Ghost
+excerpt: ''
 layout: post
 tags:
   - Getting Started
 draft: false
 contentType: post
-updated_at: '2019-05-15T21:14:01.082Z'
-author: Ghost
+updated_at: '2019-05-30T17:35:36.378Z'
 ---
 👋 Welcome, it's great to have you here.
 
