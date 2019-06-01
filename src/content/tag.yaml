@@ -3,3 +3,6 @@
   image: a3217995050_10.png
 - id: news
   name: news
+  image: chatbot-for-website.png
+  description: lorem ipsum
+- {}
