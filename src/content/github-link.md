@@ -1,15 +1,15 @@
 ---
-date: '2019-03-10'
 title: Github Source
-image: img/callum-shaw-555357-unsplash.jpg
+contentType: post
+updated_at: '2019-06-08T00:31:39.808Z'
+author: Ghost
 excerpt: ''
+image: img/callum-shaw-555357-unsplash.jpg
 layout: post
+date: '2019-03-10'
 path: ''
 tags:
   - Source
-updated_at: '2019-05-15T21:05:48.412Z'
-author: Ghost
-contentType: post
 ---
 You'll find the source of this blog on GitHub. GitHub \- https://github.com/scttcper/gatsby\-casper
 
