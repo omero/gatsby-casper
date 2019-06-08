@@ -1,15 +1,15 @@
 ---
-date: '2019-05-31'
-undefined: ''
-title: Gettysburg Address
-image: a3217995050_10.png
+author: Another Author
 excerpt: lorem ipsum bar/baz
+image: a3217995050_10.png
+date: '2019-05-31'
 path: ''
+undefined: ''
 tags: []
 draft: false
+title: Gettysburg Address lorem
 contentType: page
-updated_at: '2019-06-01T05:22:24.789Z'
-author: Another Author
+updated_at: '2019-06-08T00:11:37.592Z'
 ---
 Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the **proposition** that all men are created equal.
 
