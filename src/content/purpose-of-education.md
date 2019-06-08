@@ -1,4 +1,5 @@
 ---
+image: img/demo4.jpg
 layout: post
 date: '2012-08-20T15:11:55.000Z'
 tags:
@@ -6,9 +7,8 @@ tags:
 draft: false
 title: The Purpose of Education
 contentType: event
+updated_at: '2019-06-08T00:37:02.206Z'
 author: Ghost
-image: img/demo4.jpg
-updated_at: '2019-05-15T19:43:40.126Z'
 ---
 
 
