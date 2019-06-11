@@ -1,13 +1,13 @@
 ---
 date: '2019-06-01'
 title: Gettysburg Addres
-image: a3217995050_10.png
+image: chatbot-for-website.png
 path: ''
 undefined: ''
 tags: []
 draft: false
 contentType: page
-updated_at: '2019-06-11T20:56:57.065Z'
+updated_at: '2019-06-11T20:57:15.162Z'
 author: Another Author
 excerpt: lorem ipsum bar/baz
 ---
@@ -26,6 +26,6 @@ https://www.youtube.com/watch?v=uD4izuDMUQA
 
 > It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced.  
 
-https://twitter.com/jmolivas/status/1126511643775516672 
+https://twitter.com/jmolivas/status/1126511643775516672
 
 It is rather for us to be here dedicated to the great task remaining before us\-that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion\-that we here highly resolve that these dead shall not have died in vain\-that this nation, under God, shall have a new birth of freedom\-and that government of the people, by the people, for the people shall not perish from the earth.
