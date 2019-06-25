@@ -4,9 +4,9 @@ path: ''
 undefined: ''
 tags: []
 draft: false
-title: Gettysburg Addres
+title: Gettysburg Address
 contentType: page
-updated_at: '2019-06-13T01:41:07.305Z'
+updated_at: '2019-06-25T19:10:20.344Z'
 author: Another Author
 excerpt: lorem ipsum bar/baz
 image: chatbot-for-website.png
