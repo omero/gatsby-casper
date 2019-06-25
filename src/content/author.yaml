@@ -7,7 +7,7 @@
   location: On a plane
   profile_image: a3217995050_10.png
 - id: Another Author
-  avatar: chatbot-for-website.png
+  avatar: avatars/ghost.png
   bio: This is another test author with a profile background image 2
   twitter: TryGhost
   facebook: ghost
