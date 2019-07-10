@@ -1,6 +1,6 @@
 ---
 title: Gettysburg Address
-image: a3217995050_10.png
+image: chatbot-for-website.png
 content: >-
   Fourscore and seven years ago our fathers brought forth on this continent, a
   new nation, conceived in Liberty, and dedicated to the **proposition** that
@@ -39,13 +39,13 @@ content: >-
   that these dead shall not have died in vain\-that this nation, under God,
   shall have a new birth of freedom\-and that government of the people, by the
   people, for the people shall not perish from the earth.
-date: '2019-06-01'
+date: '2019-01-01'
 author: Another Author
 tags: []
 undefined: ''
 draft: false
 contentType: page
-updated_at: '2019-07-10T02:55:45.350Z'
+updated_at: '2019-07-10T02:58:26.890Z'
 excerpt: lorem ipsum bar/baz
 path: ''
 ---
