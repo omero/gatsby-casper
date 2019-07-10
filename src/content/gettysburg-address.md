@@ -30,7 +30,9 @@ content: >-
   which they who fought here have thus far so nobly advanced.  
 
 
-  https://twitter.com/jmolivas/status/1126511643775516672 
+  https://twitter.com/jmolivas/status/1126511643775516672
+
+
 
 
   It is rather for us to be here dedicated to the great task remaining before
@@ -45,7 +47,7 @@ tags: []
 undefined: ''
 draft: false
 contentType: page
-updated_at: '2019-07-10T02:58:36.651Z'
+updated_at: '2019-07-10T02:59:09.842Z'
 excerpt: lorem ipsum bar/baz
 path: ''
 ---
