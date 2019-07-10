@@ -45,7 +45,7 @@ tags: []
 undefined: ''
 draft: false
 contentType: page
-updated_at: '2019-07-10T02:58:26.890Z'
+updated_at: '2019-07-10T02:58:36.651Z'
 excerpt: lorem ipsum bar/baz
 path: ''
 ---
