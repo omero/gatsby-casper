@@ -1,10 +1,10 @@
 ---
-date: '2019-01-01'
+date: '2019-07-11'
 title: Gettysburg Address
-image: chatbot-for-website.png
+image: a3217995050_10.png
 draft: false
 contentType: page
-updated_at: '2019-07-11T15:54:15.752Z'
+updated_at: '2019-07-11T15:54:48.831Z'
 author: Another Author
 excerpt: lorem ipsum bar/baz
 path: ''
