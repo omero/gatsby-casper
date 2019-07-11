@@ -7,7 +7,7 @@ path: ''
 tags: []
 draft: false
 contentType: page
-updated_at: '2019-07-11T15:53:24.896Z'
+updated_at: '2019-07-11T15:53:38.856Z'
 author: Another Author
 ---
 Fourscore and seven years ago our fathers brought forth on this continent, a
