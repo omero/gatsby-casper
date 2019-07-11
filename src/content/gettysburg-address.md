@@ -1,13 +1,13 @@
 ---
 date: '2019-07-11'
 title: Gettysburg Address
-image: chatbot-for-website.png
+image: a3217995050_10.png
 excerpt: lorem ipsum bar/baz
 path: ''
 tags: []
 draft: false
 contentType: page
-updated_at: '2019-07-11T15:52:47.547Z'
+updated_at: '2019-07-11T15:53:24.896Z'
 author: Another Author
 ---
 Fourscore and seven years ago our fathers brought forth on this continent, a
@@ -16,9 +16,6 @@ all men are created equal.
 
 But, in a larger sense, we can not dedicate\-we can not consecrate\-we can not
 hallow\-this ground.
-
-![3423r4234](chatbot-for-website.png)
-
 
 **The brave men, living and dead, who struggled here, have consecrated it, far
 above our poor power to add or detract.**
