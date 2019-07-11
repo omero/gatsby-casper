@@ -4,7 +4,7 @@ title: Gettysburg Address
 image: a3217995050_10.png
 draft: false
 contentType: page
-updated_at: '2019-07-11T15:54:48.831Z'
+updated_at: '2019-07-11T15:55:21.167Z'
 author: Another Author
 excerpt: lorem ipsum bar/baz
 path: ''
@@ -17,7 +17,7 @@ all men are created equal.
 But, in a larger sense, we can not dedicate\-we can not consecrate\-we can not
 hallow\-this ground.
 
-![3423r4234](chatbot-for-website.png)
+![alt text](img/marvin-meyer-794521-unsplash.jpg)
 
 
 **The brave men, living and dead, who struggled here, have consecrated it, far
