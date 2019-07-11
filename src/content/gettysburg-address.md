@@ -4,38 +4,27 @@ title: Gettysburg Address
 image: a3217995050_10.png
 draft: false
 contentType: page
-updated_at: '2019-07-11T15:55:21.167Z'
+updated_at: '2019-07-11T15:56:06.075Z'
 author: Another Author
 excerpt: lorem ipsum bar/baz
 path: ''
 tags: []
 ---
-Fourscore and seven years ago our fathers brought forth on this continent, a
-new nation, conceived in Liberty, and dedicated to the **proposition** that
-all men are created equal.
+Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the **proposition** that all men are created equal.
 
-But, in a larger sense, we can not dedicate\-we can not consecrate\-we can not
-hallow\-this ground.
+But, in a larger sense, we can not dedicate\-we can not consecrate\-we can not hallow\-this ground.
 
 ![alt text](img/marvin-meyer-794521-unsplash.jpg)
 
 
-**The brave men, living and dead, who struggled here, have consecrated it, far
-above our poor power to add or detract.**
+**The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract.**
 
-The world will little note, nor long remember what we say here, but it can
-never forget what they did here. 
+The world will little note, nor long remember what we say here, but it can never forget what they did here. 
 
 https://www.youtube.com/watch?v=uD4izuDMUQA
 
-> It is for us the living, rather, to be dedicated here to the unfinished work
-which they who fought here have thus far so nobly advanced.  
+> It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced.  
 
 https://twitter.com/jmolivas/status/1126511643775516672
 
-It is rather for us to be here dedicated to the great task remaining before
-us\-that from these honored dead we take increased devotion to that cause for
-which they gave the last full measure of devotion\-that we here highly resolve
-that these dead shall not have died in vain\-that this nation, under God,
-shall have a new birth of freedom\-and that government of the people, by the
-people, for the people shall not perish from the earth.
+It is rather for us to be here dedicated to the great task remaining before us\-that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion\-that we here highly resolve that these dead shall not have died in vain\-that this nation, under God, shall have a new birth of freedom\-and that government of the people, by the people, for the people shall not perish from the earth.
