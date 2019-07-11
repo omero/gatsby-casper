@@ -1,16 +1,15 @@
 ---
+date: '2019-07-11'
 title: Gettysburg Address
 image: chatbot-for-website.png
-date: '2019-01-01'
-author: Another Author
+excerpt: lorem ipsum bar/baz
+path: ''
 tags: []
 draft: false
 contentType: page
-updated_at: '2019-07-10T02:59:09.842Z'
-excerpt: lorem ipsum bar/baz
-path: ''
+updated_at: '2019-07-11T15:52:47.547Z'
+author: Another Author
 ---
-
 Fourscore and seven years ago our fathers brought forth on this continent, a
 new nation, conceived in Liberty, and dedicated to the **proposition** that
 all men are created equal.
@@ -21,26 +20,18 @@ hallow\-this ground.
 ![3423r4234](chatbot-for-website.png)
 
 
-
 **The brave men, living and dead, who struggled here, have consecrated it, far
 above our poor power to add or detract.**
-
 
 The world will little note, nor long remember what we say here, but it can
 never forget what they did here. 
 
-
 https://www.youtube.com/watch?v=uD4izuDMUQA
-
 
 > It is for us the living, rather, to be dedicated here to the unfinished work
 which they who fought here have thus far so nobly advanced.  
 
-
 https://twitter.com/jmolivas/status/1126511643775516672
-
-
-
 
 It is rather for us to be here dedicated to the great task remaining before
 us\-that from these honored dead we take increased devotion to that cause for
