@@ -9,7 +9,6 @@ layout: post
 tags:
   - Getting Started
 draft: false
-contentType: post
 updated_at: '2019-05-30T17:35:40.820Z'
 ---
 👋 Welcome, it's great to have you here.

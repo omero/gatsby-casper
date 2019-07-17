@@ -6,7 +6,6 @@ author: gatsby
 date: 2018-09-30T07:03:47.149Z
 tags:
   - Tests
-contentType: Page
 updated_at: '2019-07-16T23:14:55.923Z'
 ---
 

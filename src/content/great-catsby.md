@@ -5,7 +5,6 @@ date: '2019-01-01'
 excerpt: ''
 tags: []
 draft: false
-contentType: Page
 updated_at: '2019-07-16T23:14:55.919Z'
 author: jmolivas
 ---
