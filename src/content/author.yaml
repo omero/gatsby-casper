@@ -4,8 +4,8 @@
   twitter: gatsbyjs
   facebook: gatsbyjs
   website: 'https://gatsbyjs.org/'
-  location: On a plane
-  profile_image: avatars/gatsby.png
+  location: On the Cloud
+  profile_image: img/blog-cover.jpg
   twiter: ''
 - id: jmolivas
   avatar: avatars/avatar.jpg
@@ -14,5 +14,5 @@
   facebook: jmolivas
   website: 'https://jmolivas.com/'
   location: WFH
-  profile_image: img/jmolivas.jpg
+  profile_image: img/blog-cover.jpg
   twiter: ''
