@@ -1,6 +1,6 @@
 ---
 title: The Great Catsby
-image: great-catsby.jpg
+image: img/marvin-meyer-794521-unsplash.jpg
 date: '2019-01-01'
 excerpt: ''
 tags: []
