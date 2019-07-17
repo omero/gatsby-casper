@@ -1,5 +1,5 @@
 - id: gatsby
-  avatar: img/ghost-logo.png
+  avatar: img/gatsby.png
   bio: 'Gatsby'
   twitter: gatsbyjs
   facebook: gatsbyjs
@@ -8,7 +8,7 @@
   profile_image: a3217995050_10.png
   twiter: ''
 - id: jmolivas
-  avatar: a3217995050_10.png
+  avatar: avatar.jpg
   bio: 'Head of Products at weKnow. CEO of Blaze. Creator of DrupalConsole.'
   twitter: jmolivas
   facebook: jmolivas

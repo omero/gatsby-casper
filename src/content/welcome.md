@@ -13,7 +13,7 @@ updated_at: '2019-05-30T17:35:40.820Z'
 ---
 👋 Welcome, it's great to have you here.
 
-### Modern web tech without the headache
+# Modern web tech without the headache
 
 Enjoy the power of the latest web technologies – React.js , Webpack , modern JavaScript and CSS and more — all set up and waiting for you to start building.
 
