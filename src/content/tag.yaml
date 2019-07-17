@@ -1,7 +1,7 @@
-- id: speeches
-  description: Some of the greatest words ever spoken.
+- description: Some of the greatest words ever spoken.
+  id: speeches
   image: img/speeches-cover.jpg
-- id: news
-  name: news
-  image: img/writing.jpg
+- name: news
   description: lorem ipsum
+  id: news
+  image: img/computer.jpg
