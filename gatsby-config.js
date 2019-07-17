@@ -2,8 +2,8 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    title: 'Ghost',
-    description: 'The professional publishing platform',
+    title: 'GatsbyJS',
+    description: 'Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps',
     siteUrl: 'https://gatsby-casper.netlify.com', // full path to blog - no ending slash
   },
   mapping: {

@@ -1,9 +1,9 @@
 ---
-title: Welcome to Ghost
-image: img/welcome-to-ghost.jpg
+title: Welcome to Gatsby
+image: img/welcome-to-gatsby.jpg
 summary: lorem bar baz
 date: '2018-05-06'
-author: Ghost
+author: gatsby
 excerpt: ''
 layout: post
 tags:
@@ -14,20 +14,14 @@ updated_at: '2019-05-30T17:35:40.820Z'
 ---
 👋 Welcome, it's great to have you here.
 
-We know that first impressions are important, so we've populated your new site with some initial __getting started__ posts that will help you get familiar with everything in no time. This is the first one\!
+### Modern web tech without the headache
 
-__A few things you should know upfront__:
+Enjoy the power of the latest web technologies – React.js , Webpack , modern JavaScript and CSS and more — all set up and waiting for you to start building.
 
-1. Ghost is designed for ambitious, professional publishers who want to actively build a business around their content. That's who it works best for. 
-2. The entire platform can be modified and customised to suit your needs. It's very powerful, but does require some knowledge of code. Ghost is not necessarily a good platform for beginners or people who just want a simple personal blog. 
-3. For the best experience we recommend downloading the Ghost Desktop App for your computer, which is the best way to access your Ghost site on a desktop device. 
+## Bring your own data
 
-Ghost is made by an independent non\-profit organisation called the Ghost Foundation. We are 100% self funded by revenue from our Ghost\(Pro\) service, and every penny we make is re\-invested into funding further development of free, open source technology for modern publishing.  
+Gatsby’s rich data plugin ecosystem lets you build sites with the data you want — from one or many sources: Pull data from headless CMSs, SaaS services, APIs, databases, your file system, and more directly into your pages using GraphQL.
 
-The version of Ghost you are looking at right now would not have been made possible without generous contributions from the open source community.  
+## Scale to the entire internet
 
-## Next up, the editor
-
-The main thing you'll want to read about next is probably: the Ghost editor. This is where the good stuff happens.
-
-> By the way, once you're done reading, you can simply delete the default __Ghost__ user from your team to remove all of these introductory posts\!
+Gatsby.js is Internet Scale. Forget complicated deploys with databases and servers and their expensive, time-consuming setup costs, maintenance, and scaling fears. Gatsby.js builds your site as “static” files which can be deployed easily on dozens of services.

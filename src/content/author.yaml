@@ -1,18 +1,18 @@
-- id: Ghost
+- id: gatsby
   avatar: img/ghost-logo.png
-  bio: The professional publishing platform 2
-  twitter: TryGhost
-  facebook: ghost
-  website: 'https://ghost.org/'
+  bio: 'Gatsby'
+  twitter: gatsbyjs
+  facebook: gatsbyjs
+  website: 'https://gatsbyjs.org/'
   location: On a plane
   profile_image: a3217995050_10.png
   twiter: ''
-- id: Another Author
+- id: jmolivas
   avatar: a3217995050_10.png
-  bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. '
-  twitter: TryGhost
-  facebook: ghost
-  website: 'https://ghost.org/'
+  bio: 'Head of Products at weKnow. CEO of Blaze. Creator of DrupalConsole.'
+  twitter: jmolivas
+  facebook: jmolivas
+  website: 'https://jmolivas.com/'
   location: WFH
   profile_image: img/testimg1.jpg
   twiter: ''

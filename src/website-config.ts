@@ -29,10 +29,10 @@ export interface WebsiteConfig {
 }
 
 const config: WebsiteConfig = {
-  title: 'Ghost',
-  description: 'The professional publishing platform',
+  title: 'GatsbyJS',
+  description: 'Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps',
   coverImage: 'img/blog-cover.jpg',
-  logo: 'img/ghost-logo.png',
+  logo: 'img/gatsby-logo.png',
   lang: 'en',
   siteUrl: 'https://gatsby-casper.netlify.com',
   facebook: 'https://www.facebook.com/ghost',
