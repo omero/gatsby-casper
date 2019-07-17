@@ -6,8 +6,8 @@ date: '2015-02-02'
 tags:
   - Getting Started
 draft: false
-contentType: post
-updated_at: '2019-05-16T21:02:37.099Z'
+contentType: Page
+updated_at: '2019-07-16T23:14:55.902Z'
 author: Ghost
 ---
 Ghost uses a language called **Markdown** to format text. uju

@@ -6,8 +6,8 @@ tags:
   - Speeches
 draft: false
 title: The Purpose of Education
-contentType: event
-updated_at: '2019-06-08T00:37:02.206Z'
+contentType: Page
+updated_at: '2019-07-16T23:14:56.123Z'
 author: Ghost
 ---
 

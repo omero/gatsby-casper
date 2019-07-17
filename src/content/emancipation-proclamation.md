@@ -5,8 +5,8 @@ date: '2019-01-01'
 excerpt: ''
 tags: []
 draft: false
-contentType: page
-updated_at: '2019-07-11T15:56:33.650Z'
+contentType: Page
+updated_at: '2019-07-16T23:14:55.919Z'
 author: Another Author
 ---
 In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since.

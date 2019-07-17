@@ -4,17 +4,17 @@ path: ''
 tags: []
 draft: false
 title: Gettysburg Address
-contentType: page
-updated_at: '2019-07-16T16:38:04.251Z'
 author: Another Author
 excerpt: lorem ipsum bar/baz
 image: a3217995050_10.png
+schemaId: UU6vynBdMmTBmDlKDfg8
+contentType: Page
+updated_at: '2019-07-17T05:12:56.064Z'
 ---
 Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the **proposition** that all men are created equal.
 
 But, in a larger sense, we can not dedicate\-we can not consecrate\-we can not hallow\-this ground.
 
-![alt text](img/marvin-meyer-794521-unsplash.jpg)
 
 
 **The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract.**
