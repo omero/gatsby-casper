@@ -6,9 +6,7 @@ date: '2018-09-30T07:03:47.149Z'
 tags:
   - Tests
 title: A Full and Comprehensive Style Test
-contentType: Basic Page
 updated_at: '2019-07-17T14:48:58.165Z'
-schemaId: gEaQFX1Q0dbX2hYSVUtU
 ---
 Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
