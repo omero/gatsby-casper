@@ -7,7 +7,6 @@ image: firebase-cloud-function-puppeteer.jpeg
 date: '2019-01-'
 path: ''
 tags: []
-schemaId: UU6vynBdMmTBmDlKDfg8
 updated_at: '2019-07-17T05:55:08.855Z'
 ---
 

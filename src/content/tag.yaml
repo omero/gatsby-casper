@@ -1,7 +1,7 @@
 - id: speeches
   description: Some of the greatest words ever spoken.
-  image: a3217995050_10.png
+  image: img/speeches-cover.jpg
 - id: news
   name: news
-  image: chatbot-for-website.png
+  image: img/writing.jpg
   description: lorem ipsum

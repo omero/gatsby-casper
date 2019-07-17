@@ -1,6 +1,6 @@
 ---
 title: 'How to use Google Spreadsheet to manage content and trigger a deployment of your GatsbyJS site'
-author: gatsby
+author: jmolivas
 excerpt: ''
 image: sheet-gatsby.jpg
 layout: post

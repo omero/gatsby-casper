@@ -1,18 +1,18 @@
 - id: gatsby
-  avatar: img/gatsby.png
+  avatar: avatars/gatsby.png
   bio: 'Gatsby'
   twitter: gatsbyjs
   facebook: gatsbyjs
   website: 'https://gatsbyjs.org/'
   location: On a plane
-  profile_image: a3217995050_10.png
+  profile_image: avatars/gatsby.png
   twiter: ''
 - id: jmolivas
-  avatar: avatar.jpg
+  avatar: avatars/avatar.jpg
   bio: 'Head of Products at weKnow. CEO of Blaze. Creator of DrupalConsole.'
   twitter: jmolivas
   facebook: jmolivas
   website: 'https://jmolivas.com/'
   location: WFH
-  profile_image: img/testimg1.jpg
+  profile_image: img/jmolivas.jpg
   twiter: ''
