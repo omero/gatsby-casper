@@ -4,12 +4,13 @@ tags:
   - Getting Started
 draft: false
 title: Welcome to Gatsby
-updated_at: '2019-07-23T03:02:51.154Z'
+updated_at: '2019-07-23T16:41:00.863Z'
 excerpt: ''
 date: '2018-05-06'
 summary: lorem bar baz
 author: gatsby
 image: img/welcome-to-gatsby.jpg
+contentType: page
 ---
 👋 Welcome, it's great to have you here.
 

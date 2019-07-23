@@ -1,20 +1,19 @@
 ---
-draft: false
-title: 'How to run Puppeteer using Cloud Functions'
 author: jmolivas
 excerpt: lorem ipsum bar/baz
 image: firebase-cloud-function-puppeteer.jpeg
-date: '2019-01-'
+date: '2019-01-01'
 path: ''
 tags: []
-updated_at: '2019-07-17T05:55:08.855Z'
+draft: false
+title: How to run Puppeteer using Cloud Functions
+updated_at: '2019-07-23T16:42:07.278Z'
 ---
-
 After following a discussion at the GatsbyJS discord space about running puppeter using a cloud function. I decided to give it a try and in this post I will share my experience.
 
 ### What is Puppeteer?
 
-Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default.
+Puppeteer is a Node library which provides a high\-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default.
 
 ### Why Puppeteer?
 
@@ -22,7 +21,7 @@ This library comes with everything you need to:
 
 * Generate screenshots and PDFs of pages.
 * Crawl a SPA.
-* Pre-render content (i.e. "SSR" (Server-Side Rendering)).
+* Pre\-render content \(i.e. "SSR" \(Server\-Side Rendering\)\).
 * Automate form submission, UI testing, keyboard input, etc.
 
 For te purpose of tihs example we are going to take advantage of the screenshot generation.
@@ -37,14 +36,13 @@ To use Puppeteer in your project using `npm` execute on your functions directory
 
 ```
 npm install --save puppeteer
-
 ```
 
 ### The Firebase Cloud Function
 
-The following example creates a new `http` function to handle the request using the `<https://path-to-your-project.web.app>/screeshot` url. This returns a screenshot of the provided `url` query parameter.
+The following example creates a new `http` function to handle the request using the `<https://path-to-your-project.web.app>/screeshot` url\. This returns a screenshot of the provided `url` query parameter.
 
-``` javascript
+```javascript
 exports.screenshot = functions
   .runWith({
     timeoutSeconds: 120,
@@ -81,7 +79,6 @@ exports.screenshot = functions
       return response.type("image/png").send(screenshot);
     })();
   });
-
 ```
 
 > Note the **runWith** method is used in order to set timeout and memory allocation used on the cloud function execution.
