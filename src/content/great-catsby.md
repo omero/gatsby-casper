@@ -1,12 +1,12 @@
 ---
-excerpt: ''
-image: gatsby-wax.jpg
-date: '2019-07-22'
+date: '2019-01-01'
 tags: []
 draft: false
 title: The Great Catsby
-updated_at: '2019-07-23T16:15:26.056Z'
+updated_at: '2019-07-23T16:15:48.834Z'
 author: jmolivas
+excerpt: ''
+image: gatsby-wax.jpg
 ---
 In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since.
 
