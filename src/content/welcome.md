@@ -1,15 +1,15 @@
 ---
-title: Welcome to Gatsby
-image: img/welcome-to-gatsby.jpg
-summary: lorem bar baz
-date: '2018-05-06'
-author: gatsby
-excerpt: ''
 layout: post
 tags:
   - Getting Started
 draft: false
-updated_at: '2019-05-30T17:35:40.820Z'
+title: Welcome to Gatsby
+updated_at: '2019-07-23T03:02:51.154Z'
+excerpt: ''
+date: '2018-05-06'
+summary: lorem bar baz
+author: gatsby
+image: img/welcome-to-gatsby.jpg
 ---
 👋 Welcome, it's great to have you here.
 
