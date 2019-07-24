@@ -6,8 +6,9 @@ date: '2015-02-02'
 tags:
   - Getting Started
 draft: false
-updated_at: '2019-07-16T23:14:55.902Z'
+updated_at: '2019-07-24T18:05:36.692Z'
 author: gatsby
+contentType: page
 ---
 
 ## Quick Start

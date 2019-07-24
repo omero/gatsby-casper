@@ -5,9 +5,10 @@ date: '2012-08-20T15:11:55.000Z'
 tags:
   - Speeches
 draft: false
-title: Gatsby Moving Rubber Hair Wax, Purple Wild Shake
-updated_at: '2019-07-16T23:14:56.123Z'
+title: 'Gatsby Moving Rubber Hair Wax, Purple Wild Shake'
+updated_at: '2019-07-24T18:05:36.680Z'
 author: gatsby
+contentType: page
 ---
 
 
