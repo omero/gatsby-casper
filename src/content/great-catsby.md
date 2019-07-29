@@ -1,15 +1,13 @@
 ---
+author: jmolivas
+excerpt: ''
+image: great-catsby.jpg
 date: '2019-07-24'
 tags: []
 draft: false
 title: The Great Catsby
-author: jmolivas
-excerpt: ''
-image: great-catsby.jpg
-updated_at: '2019-07-29T19:24:31.240Z'
+updated_at: '2019-07-29T21:29:43.560Z'
 ---
-In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since.
-
 > “Whenever you feel like criticizing any one,” he told me, “just remember that all the people in this world haven’t had the advantages that you’ve had.”
 
 ![alt text](img/marvin-meyer-794521-unsplash.jpg)
