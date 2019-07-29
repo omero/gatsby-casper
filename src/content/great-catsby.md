@@ -1,12 +1,12 @@
 ---
-excerpt: ''
-image: great-catsby.jpg
 date: '2019-07-24'
 tags: []
 draft: false
 title: The Great Catsby
 author: jmolivas
-updated_at: '2019-07-24T18:05:26.745Z'
+excerpt: ''
+image: great-catsby.jpg
+updated_at: '2019-07-29T19:24:31.240Z'
 ---
 In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since.
 
