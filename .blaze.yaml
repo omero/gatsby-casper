@@ -1,0 +1,23 @@
+projectData:
+  status: active
+  name: jmolivas/gatsby-casper
+  buildStatus: ready
+  external: false
+  provider: github
+  deployment:
+    developmentCommand: gatsby develop
+    productionBranch: master
+    publishDirectory: public
+    packager: npm
+    contentDirectory:
+      - src/content
+    buildCommand: gatsby build
+    builds:
+      master:
+        weight: 1
+        id: _iob7pnden
+        environmentVariables: []
+        branch: master
+  repository: jmolivas/gatsby-casper
+  type: gatsby
+schemasData: []
