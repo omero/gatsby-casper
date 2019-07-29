@@ -1,4 +1,4 @@
-projectData:
+project:
   status: active
   haveConfigFile: true
   name: jmolivas/gatsby-casper
@@ -21,7 +21,7 @@ projectData:
         branch: master
   repository: jmolivas/gatsby-casper
   type: gatsby
-schemasData:
+schemas:
   - type: dataset
     definitions:
       fields:
