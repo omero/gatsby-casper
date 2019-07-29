@@ -11,7 +11,7 @@ path: ''
 tags:
   - Source
 contentType: page
-updated_at: '2019-07-24T18:05:36.683Z'
+updated_at: '2019-07-29T19:25:16.870Z'
 ---
 
 In early April 2019 my local meetup [Mexicali Open Source](https://mxlos.org/) was invited to talk about emerging technologies at the [Instituto Tecnológico de Mexicali](http://www.itmexicali.edu.mx/).
