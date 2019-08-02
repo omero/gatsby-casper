@@ -1,6 +1,5 @@
 project:
   status: active
-  haveConfigFile: true
   name: jmolivas/gatsby-casper
   buildStatus: ready
   external: false
