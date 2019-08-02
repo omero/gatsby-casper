@@ -7,7 +7,7 @@ path: ''
 tags: []
 draft: false
 title: How to run Puppeteer using Cloud Functions
-updated_at: '2019-07-29T23:30:06.676Z'
+updated_at: '2019-08-02T01:30:30.733Z'
 contentType: page
 ---
 After following a discussion at the GatsbyJS discord space about running puppeter using a cloud function. I decided to give it a try and in this post I will share my experience.

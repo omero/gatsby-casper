@@ -6,7 +6,7 @@ tags:
   - Speeches
 draft: false
 title: 'Gatsby Moving Rubber Hair Wax, Purple Wild Shake'
-updated_at: '2019-07-29T23:30:06.678Z'
+updated_at: '2019-08-02T01:30:30.737Z'
 author: gatsby
 contentType: page
 ---

@@ -6,7 +6,7 @@ date: '2015-02-02'
 tags:
   - Getting Started
 draft: false
-updated_at: '2019-07-29T23:30:06.679Z'
+updated_at: '2019-08-02T01:30:30.740Z'
 author: gatsby
 contentType: page
 ---
